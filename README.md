@@ -5,11 +5,12 @@
 ### To create the whole project
 
 
-1. Go to your source directory in your terminal and run the command `git clone https://github.com/Yosolita1978/Template2023React-Vite.git NAMENEWDIRECTORY`
+1. Go to your source directory in your terminal and run the command `git clone https://github.com/Techtonica/Template2023ReactAndVite.git NAMENEWDIRECTORY`
+2. (We recommend that you name your directory `Template` or something easy to remember)
 
-2. To clean the owner git out of the main directory, run the command `rm -rf .git`
+3. To clean the owner git out of the main directory, run the command `rm -rf .git`
 
-3. Then while still within the main directory in your terminal, run the command `git init` to start your own git track 
+4. Then while still within the main directory in your terminal, run the command `git init` to start your own git track 
 
 ![You will something like this in your terminal](https://user-images.githubusercontent.com/102179075/227304861-7ad633d7-5ec0-463a-8554-9e8b4c8caaad.png?raw=true)
 
